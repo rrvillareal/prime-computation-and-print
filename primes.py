@@ -7,7 +7,7 @@ This is a temporary script file.
 import time
 
 def primes():
-    n = int(input("How many primes should i go up to?"))
+    n = int(input("How many primes should I go up to?"))
     start_time = time.clock()
     out = list()
     X = [True] * (n+1)
